@@ -40,4 +40,6 @@ Esta función retorna true si el caracter analizado corresponde a un dígito
 
 AutomataLexico
 Esta función recibe una cadena y la analiza. Está basada en el siguiente autómata:
-!(https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20L%C3%A9xico/Codigo/Capturas/FullLexicoAutomata.PNG)
+
+![Image text](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20L%C3%A9xico/Codigo/Capturas/FullLexicoAutomata.PNG)
+
