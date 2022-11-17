@@ -1,0 +1,16 @@
+int var;
+int var2;
+int var3;
+char hola;
+var = 1;
+int hola();
+var = 'a';
+if(var < 0) {
+int i;
+i = 1;
+}
+
+int i;
+
+
+

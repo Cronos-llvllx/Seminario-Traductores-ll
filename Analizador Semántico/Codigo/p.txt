@@ -1,0 +1,18 @@
+int var2;
+char var2;
+var2 = 'c';
+var2 = "hola";
+var2 = 2;
+var = 3
+char hola;
+hola = "hola";
+hola = b;
+hola = '.';
+hola = true;
+
+string cadena;
+cadena = 1;
+cadena = 'c';
+cadena = "hola";
+
+
