@@ -48,7 +48,7 @@ Esta función retorna true si el caracter analizado corresponde a un dígito
 AutomataLexico
 Esta función recibe una cadena y la analiza. Está basada en el siguiente autómata:
 
-![Image text](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20L%C3%A9xico/Codigo/Capturas/FullLexicoAutomata.PNG)
+![Image text](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20L%C3%A9xico/Codigo/Capturas/FullLexicoAutomata.PNG)  
 
 Donde:
 
@@ -60,6 +60,6 @@ Imprime en pantalla el estado donde se quedó de ocurrir un error.
 
 
 Ejemplo de salida:
-![Image text2](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20L%C3%A9xico/Codigo/Capturas/EjemploSalidaError.PNG)    
-![Image text3](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20L%C3%A9xico/Codigo/Capturas/EjemploSalidaId.PNG)    
-![Image text4](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20L%C3%A9xico/Codigo/Capturas/EjemploSalidaOp.PNG)    
+![Image text2](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20L%C3%A9xico/Codigo/Capturas/EjemploSalidaError.PNG)      
+![Image text3](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20L%C3%A9xico/Codigo/Capturas/EjemploSalidaId.PNG)      
+![Image text4](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20L%C3%A9xico/Codigo/Capturas/EjemploSalidaOp.PNG)      
