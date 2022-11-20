@@ -22,7 +22,7 @@ El analizador semántico reconocerá las siguientes cuestiones y situaciones.
 
 Ejemplos de ejecución:
 A continuación, se muestra una captura del archivo que se va a analizar después
-Se abre el programa y se ingresa el nombre del archivo a analizar
+Se abre el programa y se ingresa el nombre del archivo a analizar  
 ![Ejemplo1](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20Sem%C3%A1ntico/Codigo/capturas/AnalizarArchivo.PNG)  
 ![Ejemplo1.2](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20Sem%C3%A1ntico/Codigo/capturas/Ejemplo.PNG)  
 El programa detectó un error en la línea 1 ya que como podemos observar se está declarando otra variable con el mismo nombre, 
