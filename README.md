@@ -1,9 +1,9 @@
 # Seminario-Traductores-ll
-Proyecto Final
-Hecho por: Gomez Medina Hector Daniel
-Mtro: Michel Emanuel Lopez Franco
-10/11/2022
-
+Proyecto Final  
+Hecho por: Gomez Medina Hector Daniel  
+Mtro: Michel Emanuel Lopez Franco  
+10/11/2022  
+  
 Etapa 1  
 Analizador Léxico Completo
 
