@@ -1,4 +1,4 @@
-Introducción
+Introducción  
 En esta actividad vamos a realizar el generador de código, para esto hicimos uso del lenguaje C++.
 La generación de código consiste en relacionar todo lo que hemos hecho en nuestro compilador el cual ha llevado ya por tres fases de desarrollo:
 -Analizador Léxico.
