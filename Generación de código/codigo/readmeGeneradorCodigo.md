@@ -45,19 +45,19 @@ USO DEL ANALIZADOR LÉXICO, SINTÁCTICO Y SEMÁNTICO: Con el uso del compilador 
 
 Ejemplos de ejecución:
 
-![Ejemplo1](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/DiagramaSitDelGeneradorDeC%C3%B3digo.PNG)
+![Ejemplo1](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/DiagramaSitDelGeneradorDeC%C3%B3digo.PNG)  
 A continuación, se muestra una captura del archivo que se va a analizar
-![Ejemplo2](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/ArchivoAnalizar.PNG)
+![Ejemplo2](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/ArchivoAnalizar.PNG)  
 Si escogemos la opción de suma por ejemplo veremos que aparece analizando sintáctica y semánticamente el archivo, de la siguiente forma. Si está correctamente escrito, procede a cargar la función de ensamblador para ejecutar la operación, de lo contrario no lo hará.
-![Ejemplo3](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/EjSuma.PNG)
+![Ejemplo3](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/EjSuma.PNG)  
 Se ejecuta la suma de acuerdo al código de ensamblador
-![Ejemplo4](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/EjSuma2.PNG)
+![Ejemplo4](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/EjSuma2.PNG)  
 
-![Ejemplo5](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/Funciones.PNG)
+![Ejemplo5](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/Funciones.PNG)  
 Se abre el programa y aparece un menú para escoger
-![Ejemplo6](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/MenuGeneradorDC%C3%B3digo.PNG)
+![Ejemplo6](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/MenuGeneradorDC%C3%B3digo.PNG)  
 Aquí se muestran resultados de operaciones como el seno, raíz o tangente hiperbólica.
-![Ejemplo7](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/EjSeno%2CRaiz%2CTangenteHipe.PNG)
+![Ejemplo7](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Generaci%C3%B3n%20de%20c%C3%B3digo/codigo/capturas/EjSeno%2CRaiz%2CTangenteHipe.PNG)  
 
 
 
