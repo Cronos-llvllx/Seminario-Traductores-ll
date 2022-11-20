@@ -133,8 +133,8 @@ El programa detectó un error en la línea 1 ya que como podemos observar en la 
 Diagrama:
 ![Ejemplo4](https://github.com/Cronos-llvllx/Seminario-Traductores-ll/blob/main/Analizador%20Sintactico/codigo/capturas/DiagramaCadenasAcept.PNG)
 
-Etapa 4 Generador de código
-Introducción  
+Etapa 4 Generador de código  
+Introducción    
 En esta actividad vamos a realizar el generador de código, para esto hicimos uso del lenguaje C++.
 La generación de código consiste en relacionar todo lo que hemos hecho en nuestro compilador el cual ha llevado ya por tres fases de desarrollo:
 -Analizador Léxico.
@@ -155,7 +155,7 @@ con frecuencia es útil para el programador observar la salida del ensamblaje de
 formas que el compilador no puede. El ensamblaje también es útil para procesos críticos o en tiempo real, porque a diferencia de los lenguajes de alto nivel, 
 no hay ambigüedad sobre cómo se compilará el código. El tiempo puede controlarse estrictamente, lo cual es útil para escribir controladores de dispositivo simples.
 
-Objetivo General
+Objetivo General  
 Análisis: se trata de la comprobación de la
 corrección del programa fuente, según la definición del lenguaje en términos de teoría de lenguajes formales. 
 Incluye las fases correspondientes al análisis léxico (que consiste en la descomposición del programa fuente en componentes léxicos), 
@@ -167,7 +167,7 @@ por una o varias combinaciones de fases de generación de código (normalmente s
 y de optimización de código (en las que se busca obtener un programa objetivo lo más eficiente posible, según su complejidad 
 computacional o complejidad de Kolmogórov: tiempo de ejecución, espacio durante ejecución, espacio para ser almacenado fuera de ejecución, etc.)
 
-Objetivo particular
+Objetivo particular  
 El objetivo particular es crear un generador de código de un lenguaje el cual tendrá diferentes estructuras de lenguaje mediante el uso de autómatas que acepten dicho lenguaje.
 El programa consiste en un menú con diferentes operaciones tanto aritméticas, trigonométricas e hiperbólicas donde el usuario puede capturar los datos y realizar la operación. Las operaciones se realizan mediante lenguaje de ensamblador, con la función _ASM_ _VOLATILE_ que es la que permite combinar las instrucciones de ensamblador con el lenguaje C y así mismo, usar nuestro lenguaje para poder cargar dichas funciones.
 El generador de código reconocerá las siguientes cuestiones:
